@@ -8,8 +8,9 @@ Detección de objetos en tiempo real mediante segmentación por múltiples umbra
 
 Captura video en vivo desde la cámara y aplica **múltiples rangos de umbral HSV** simultáneamente para detectar y segmentar objetos por color en tiempo real. Cada umbral puede representar un color o categoría distinta, permitiendo identificar varios objetos al mismo tiempo en un solo frame.
 
-<img width="802" height="640" alt="T1" src="https://github.com/user-attachments/assets/fd9fbebf-e517-448c-8e54-d75562798887" />
-
+<p align=center>
+<img width="400" src="https://github.com/user-attachments/assets/fd9fbebf-e517-448c-8e54-d75562798887" />
+</p>
 
 ---
 
